@@ -4,7 +4,7 @@
 
 ⤷ I'm also interest in backend architecture using **NodeJS** and working with **MongoDB**.
 
-## Contact Me
+## Contact
 <a aligh="left" href="#" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>
 <a aligh="left" href="mailto:lmt151099@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>
 <a aligh="left" href="https://www.linkedin.com/in/l%C3%A2m-minh-th%C3%A0nh-6706b9b9" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> 
