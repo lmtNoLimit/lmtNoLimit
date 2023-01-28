@@ -1,8 +1,8 @@
 # Lâm Minh Thành
 
-### I'm a JavaScript Developer with passion of developing App UI using frontend frameworks such as React and Vue.
+### I am a positive, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. I have extensive experience working both alone and as part of a team on often time-sensitive, challenging web development projects that require outstanding creative and technical capabilities and the ability to ensure all work is optimized across a wide range of platforms.
 
-⤷ I'm also interest in backend architecture using **NodeJS** and working with **MongoDB**.
+⤷ 
 
 ## Contact
 <a aligh="left" href="#" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>
