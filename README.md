@@ -11,7 +11,7 @@
 
 ⚐ Based in Hanoi, Vietnam
 
-ϟ Currently Developing a powerful Page Builder and UI components library
+ϟ Currently Developing a great app using JavaScript
 
 ## Skills
 
